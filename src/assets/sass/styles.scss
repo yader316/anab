@@ -1,0 +1,27 @@
+// center perfect
+.d-flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+//styles Home
+.contentHome{
+    &__circleLogo{
+        width: 70%;
+    };
+    &__sliderEmpresa{
+        margin-top: 30px;
+        padding: 26px 10px 40px;
+       background-color: rgba(57, 62, 93, 0.9);
+
+    };
+    &__contentTitle{
+        background-color: #0b40a0;
+        padding: 5px;
+        border-radius: 80px ;
+    };
+    &__title{
+        color: #fff;
+    }
+}
+

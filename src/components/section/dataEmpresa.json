@@ -1,0 +1,40 @@
+{
+    "empresa": [
+        {
+            "id": 1,
+            "name": "TÍTULO DE LA EMPRESA 1",
+            "description": "Descripción corta de la imagen en cuestión",
+            "image": "https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg",
+            "url": " "
+        },
+        {
+            "id": 2,
+            "name": "TÍTULO DE LA EMPRESA 2",
+            "description": "Descripción corta de la imagen en cuestión",
+            "image": "https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg",
+            "url": " "
+        },
+        {
+            "id": 3,
+            "name": "TÍTULO DE LA EMPRESA 3",
+            "description": "Descripción corta de la imagen en cuestión",
+            "image": "https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg",
+            "url": " "   
+        },
+        {
+            "id": 4,
+            "name": "TÍTULO DE LA EMPRESA 4",
+            "description": "Descripción corta de la imagen en cuestión",
+            "image": "https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg",
+            "url": " "
+        },
+        {
+            "id": 5,
+            "name": "TÍTULO DE LA EMPRESA 5",
+            "description": "Descripción corta de la imagen en cuestión",
+            "image": "https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg",
+            "url": " "
+        }
+        
+    ]
+}

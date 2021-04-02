@@ -1,0 +1,15 @@
+.contentAccordion{
+    &__btnHeader{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        border: none;
+        background: none;
+    };
+    &__title{
+        color:darkslategrey;
+    };
+    &__icon{
+        color: #ee6f28;
+    }
+}

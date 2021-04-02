@@ -1,0 +1,19 @@
+{
+    "info":[
+        {
+            "id":1,
+            "title": "Misión",
+            "description": "aqui va la mision"
+        },
+        {
+            "id":2,
+            "title": "Visión",
+            "description": "aqui va la vision"
+        },
+        {
+            "id":3,
+            "title": "Valores",
+            "description": "aqui va la Valores"
+        }
+    ]
+}
