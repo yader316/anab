@@ -21,10 +21,9 @@ function InfoAccordion({id,title,description}) {
                 <Card>
                     <Card.Header>
                         <Accordion.Toggle 
-                            as='Button' 
                             variant='link'
                             eventKey={`${id}`}
-                            className='contentAccordion__btnHeader'
+                            className='btn contentAccordion__btnHeader'
                         >
                             <h4 className='contentAccordion__title'>{title}</h4>
                             <FontAwesomeIcon 

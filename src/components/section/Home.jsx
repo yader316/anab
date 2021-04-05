@@ -13,6 +13,7 @@ import 'assets/sass/styles.scss';
 
 // images
 import BalonArbitro from 'assets/img/BalonArbitro.png';
+import FotoAnab from 'assets/img/fotoANAB.png';
 
 import Cards from 'components/content/Cards';
 import InfoAccordion from 'components/content/InfoAccordion';
@@ -102,11 +103,22 @@ function Home() {
                         />
                     </Col>
                 </Row>
-                <Row className='mt-5'>
+                <Row className='flex-column-reverse flex-md-row'>
                     <Col xs={12} md={6}>
-                        imagen pendiente
+                        <Image 
+                            src={FotoAnab}
+                            rounded
+                            className='w-100 mt-5'
+                            data-aos='fade-right'
+                            data-aos-duration='1000'
+                            data-aos-easing='ease-in-out'
+                        />
                     </Col>
-                    <Col xs={12} md={6}>
+                    <Col 
+                        xs={12} 
+                        md={6}
+                        className='d-flex flex-column justify-content-center'
+                    >
                         {confiDataMVV.map((item) => (
                             <InfoAccordion 
                                 key={item.id}
